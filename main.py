@@ -2,13 +2,7 @@
 COMS 4705 Natural Language Processing Spring 2021
 Kathy McKeown
 Tom Cohen | tc2955
-Homework 2: Emotion Classification with Neural Networks - Main File
-
-** Note:: To run with the extensions, please mark FRESH_START = TRUE and EXTENSION = TRUE. ** 
-(To save you the trouble of figuring out exactly where/how everything is implemented)
-But, basically for the different tokenizer, I modified a few functions in utils.py and hw2.py, 
-so that if the EXTENSION = TRUE and FRESH_START = TRUE, it will tokenize the data using Tweet Tokenizer.
-For the Scheduler, I modified the training so that if EXTENSION = TRUE, it will update the learning rate at each epoch by a tiny amount.
+Emotion Classification with Neural Networks - Main File
 
 """
 
