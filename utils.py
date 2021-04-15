@@ -1,7 +1,7 @@
 """
-COMS 4705 Natural Language Processing Spring 2021
+COMS 4705 Natural Language Processing
 Kathy McKeown
-Homework 2: Emotion Classification with Neural Networks - Utils File
+Emotion Classification with Neural Networks - Utils File
 """
 
 # Imports
