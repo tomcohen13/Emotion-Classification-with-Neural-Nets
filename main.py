@@ -1,9 +1,7 @@
 """
-COMS 4705 Natural Language Processing Spring 2021
 Kathy McKeown
 Tom Cohen | tc2955
 Emotion Classification with Neural Networks - Main File
-
 """
 
 # Imports
