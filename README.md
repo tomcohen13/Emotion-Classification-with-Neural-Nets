@@ -1,3 +1,3 @@
-# emotion-classification-LSTM
+# Emotion Classification
 
-A project on emotion classification using Deep Neural Networks, RNNs, and LSTMs. Text was GloVe-encoded. 
+Emotion classification of GloVe-Encoded reviews, comparing the performances of a Deep Neural Network, RNN, and LSTM.
